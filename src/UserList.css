@@ -1,0 +1,15 @@
+.ListCont {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: 15px;
+}
+
+.singelCard {
+    margin: 12px;
+}
+
+body {
+    background-color: #1e2124;
+}
